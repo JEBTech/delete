@@ -1,0 +1,1 @@
+I'm restarting my attemp at creating a JEKYLL themed website with Github Pages. After a long and frustrating attemp to install JEKYLL and ruby on MacOS, I've moved over to Linux. Lets see how this goes.
